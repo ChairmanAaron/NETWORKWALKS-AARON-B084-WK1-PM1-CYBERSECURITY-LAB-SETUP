@@ -1,5 +1,5 @@
 # NETWORKWALKS-AARON-B084-WK1-PM1-CYBERSECURITY-LAB-SETUP
-My first cybersecurity lab setup repo
+My first cybersecurity lab setup
 ## STEPS
 Step 1. Download & install 7-zip: https://7-zip.org/download.html 
 Step 2. Download & install Virtualbox on your laptop/PC: https://virtualbox.org/wiki/Downloads

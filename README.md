@@ -1,4 +1,4 @@
-# NETWALKS-AARON-B084-WK1-PM1-CYBERSECURITY-LAB-SETUP
+# NETWORKWALKS-AARON-B084-WK1-PM1-CYBERSECURITY-LAB-SETUP
 My first cybersecurity lab setup repo
 ## STEPS
 Step 1. Download & install 7-zip: https://7-zip.org/download.html 
